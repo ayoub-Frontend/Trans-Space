@@ -1,0 +1,159 @@
+/* Start Variables */
+:root {
+    --gray-color: #ddd;
+}
+/* Start Variables */
+
+/* Start Box */
+.d-flex {
+    display: flex;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.gap-15 {
+    gap: 15px;
+}
+
+.gap-20 {
+    gap: 20px;
+}
+
+.gap-30 {
+    gap: 30px;
+}
+/* End Box */
+
+/* Start Positions */
+.p-relative {
+    position: relative;
+}
+
+.p-absolute {
+    position: absolute;
+}
+
+.top-half {
+    top: 50%;
+}
+
+.transform-top-half {
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+}
+/* End Positions */
+
+/* Start Marging And Padding */
+.m-0 {
+    margin: 0;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mt-25 {
+    margin-top: 25px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.ml-20 {
+    margin-left: 20px;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.p-15 {
+    padding: 15px;
+}
+
+.p-25 {
+    padding: 25px;
+}
+/* End Marging And Padding */
+
+/* Start Fonts And Width */
+.fs-14 {
+    font-size: 14px;
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.fs-25 {
+    font-size: 25px;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.w-auto {
+    width: auto;
+}
+
+.w-full {
+    width: 100%;
+}
+/* End Fonts And Width*/
+
+/* Start Colors */
+.bg-ddd {
+    background-color: var(--gray-color);
+}
+
+.c-black {
+    color: black;
+}
+
+.c-white {
+    color: white;
+}
+
+.bg-black {
+    background-color: black;
+}
+/* End Colors */
+
+/* Start Transition */
+.trans-3 {
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -ms-transition: 0.3s;
+    -o-transition: 0.3s;
+}
+/* End Transition */
+
+/* Start Borders */
+.rad-6 {
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+/* End Borders */
